@@ -1,0 +1,9 @@
+crypto_portfolio/
+│── static/
+│   ├── style.css
+│── templates/
+│   ├── index.html
+│   ├── portfolio.html
+│── app.py
+│── dane.json
+│── requirements.txt
